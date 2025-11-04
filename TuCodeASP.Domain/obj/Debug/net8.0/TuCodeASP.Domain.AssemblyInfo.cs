@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TuCodeASP.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bb4c9c949f83b3a14e0c07206aa0948db91753d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+633da2d6cb27b1d0e643637d019597abf152db7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TuCodeASP.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TuCodeASP.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
