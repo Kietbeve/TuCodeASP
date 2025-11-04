@@ -1,0 +1,31 @@
+﻿@using TuCodeASP.Domain.Models
+@model IEnumerable<Product>
+<h3>Trang Lish</h3>
+<table>
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Price</th>
+			<th>Desc</th>
+			<th>Category</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(Product i in Model)
+		{
+			<tr>
+				<td>@i.ProductId</td>
+				<td>@i.Name</td>
+				<td>@i.Price</td>
+				<td>@i.Description</td>
+				<td>@i.Category</td>
+				<td>
+					<a class="btn btn-primary">Add to cart</a>
+					<a class="btn btn-primary">View</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

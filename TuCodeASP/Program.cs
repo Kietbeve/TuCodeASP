@@ -1,9 +1,19 @@
+using TuCodeASP.Middlewares;
+using TuCodeASP.Domain.Abstract;//Dung interface
+using TuCodeASP.FakeRepository;//dung FakeRepo
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+//Dang Ki DI
+builder.Services.AddSingleton<IProductRepository,FakeProductRepository>();//doc repo 1 lan suot chuong trinh
+
 var app = builder.Build();
+
+//Dang ki MW
+app.UseMiddleware<RequestLogger>();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

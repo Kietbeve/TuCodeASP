@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KIET\\source\\repos\\TuCodeASP\\",
+  "WorkspaceRootPath": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B59D7112-A49F-4D6E-87D3-2A36CB201AA2}|TuCodeASP.Domain\\TuCodeASP.Domain.csproj|c:\\users\\kiet\\source\\repos\\tucodeasp\\tucodeasp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B59D7112-A49F-4D6E-87D3-2A36CB201AA2}|TuCodeASP.Domain\\TuCodeASP.Domain.csproj|solutionrelative:tucodeasp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|solutionrelative:tucodeasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|solutionrelative:tucodeasp\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|solutionrelative:tucodeasp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp\\fakerepository\\fakeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|solutionrelative:tucodeasp\\fakerepository\\fakeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|solutionrelative:tucodeasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|solutionrelative:tucodeasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59D7112-A49F-4D6E-87D3-2A36CB201AA2}|TuCodeASP.Domain\\TuCodeASP.Domain.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59D7112-A49F-4D6E-87D3-2A36CB201AA2}|TuCodeASP.Domain\\TuCodeASP.Domain.csproj|solutionrelative:tucodeasp.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59D7112-A49F-4D6E-87D3-2A36CB201AA2}|TuCodeASP.Domain\\TuCodeASP.Domain.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp.domain\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59D7112-A49F-4D6E-87D3-2A36CB201AA2}|TuCodeASP.Domain\\TuCodeASP.Domain.csproj|solutionrelative:tucodeasp.domain\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp\\middlewares\\requestlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|solutionrelative:tucodeasp\\middlewares\\requestlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,21 +45,122 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 335,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\KIET\\source\\repos\\TuCodeASP\\TuCodeASP.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "TuCodeASP.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\KIET\\source\\repos\\TuCodeASP\\TuCodeASP.Domain\\Class1.cs",
-              "RelativeToolTip": "TuCodeASP.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T03:08:06.16Z",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TuCodeASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TuCodeASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T03:11:00.185Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuCodeASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TuCodeASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T03:10:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "TuCodeASP\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "TuCodeASP\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T02:52:54.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TuCodeASP\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TuCodeASP\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:55:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakeProductRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\FakeRepository\\FakeProductRepository.cs",
+              "RelativeDocumentMoniker": "TuCodeASP\\FakeRepository\\FakeProductRepository.cs",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\FakeRepository\\FakeProductRepository.cs*",
+              "RelativeToolTip": "TuCodeASP\\FakeRepository\\FakeProductRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:50:52.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP.Domain\\Abstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TuCodeASP.Domain\\Abstract\\IProductRepository.cs",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP.Domain\\Abstract\\IProductRepository.cs",
+              "RelativeToolTip": "TuCodeASP.Domain\\Abstract\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:47:40.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TuCodeASP.Domain\\Models\\Product.cs",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "TuCodeASP.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:43:25.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Program.cs",
+              "RelativeDocumentMoniker": "TuCodeASP\\Program.cs",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Program.cs*",
+              "RelativeToolTip": "TuCodeASP\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:27:16.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestLogger.cs",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Middlewares\\RequestLogger.cs",
+              "RelativeDocumentMoniker": "TuCodeASP\\Middlewares\\RequestLogger.cs",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Middlewares\\RequestLogger.cs",
+              "RelativeToolTip": "TuCodeASP\\Middlewares\\RequestLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:15:59.24Z"
             }
           ]
         }

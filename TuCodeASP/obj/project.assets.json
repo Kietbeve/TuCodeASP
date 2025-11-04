@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "TuCodeASP.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TuCodeASP.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TuCodeASP.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TuCodeASP.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TuCodeASP.Domain/TuCodeASP.Domain.csproj",
+      "msbuildProject": "../TuCodeASP.Domain/TuCodeASP.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "TuCodeASP.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\KIET\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP.Domain\\TuCodeASP.Domain.csproj": {
+              "projectPath": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP.Domain\\TuCodeASP.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

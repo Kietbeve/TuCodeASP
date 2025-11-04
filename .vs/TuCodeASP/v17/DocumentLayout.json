@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|d:\\hoctap\\hoc ki 5\\aps net core mvc\\tucodeasp\\tucodeasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFFD3715-FFA8-4E94-9C66-BD7B311AA47A}|TuCodeASP\\TuCodeASP.csproj|solutionrelative:tucodeasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TuCodeASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HocTap\\Hoc Ki 5\\APS Net core MVC\\TuCodeASP\\TuCodeASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TuCodeASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T03:11:00.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

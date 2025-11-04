@@ -1,0 +1,12 @@
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\bin\Debug\net8.0\TuCodeASP.Domain.deps.json
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\bin\Debug\net8.0\TuCodeASP.Domain.dll
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\bin\Debug\net8.0\TuCodeASP.Domain.pdb
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\TuCodeASP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\TuCodeASP.Domain.AssemblyInfoInputs.cache
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\TuCodeASP.Domain.AssemblyInfo.cs
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\TuCodeASP.Domain.csproj.CoreCompileInputs.cache
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\TuCodeASP.Domain.sourcelink.json
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\TuCodeASP.Domain.dll
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\refint\TuCodeASP.Domain.dll
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\TuCodeASP.Domain.pdb
+D:\HocTap\Hoc Ki 5\APS Net core MVC\TuCodeASP\TuCodeASP.Domain\obj\Debug\net8.0\ref\TuCodeASP.Domain.dll
